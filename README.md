@@ -2,4 +2,4 @@
 
 notes:
 - init:  initialize - do not nest git repos
-
+- new note about commit
