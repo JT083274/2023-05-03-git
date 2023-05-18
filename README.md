@@ -6,3 +6,7 @@ notes:
 - add new rows - after trying diff - more learning
 - tried moving HEAD and Checkout commands
 more experiments with file deletion were missed
+- learned about git hub
+- learned about SSH KEY
+- connected local to remote git
+- Pushed the code to github
