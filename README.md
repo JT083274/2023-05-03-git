@@ -10,3 +10,5 @@ more experiments with file deletion were missed
 - learned about SSH KEY
 - connected local to remote git
 - Pushed the code to github
+- Editing file right in github using pencil
+- Another change to test commit in GitHub
